@@ -18,7 +18,6 @@ namespace Core_Proje.Controllers
             return View();
         }
 
-        //test
         public IActionResult Privacy()
         {
             return View();
